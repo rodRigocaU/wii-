@@ -8,6 +8,7 @@ int main()
     a++;
     ++a;
     cout << a << endl;
-    cout << "C++ SUPER LENGUAJE CARRY MACCACO GG" << '/n';
-    return 0;
+    cout << "C++ SUPER LENGUAJE CARRY  GG" << '/n';
+    cout << "Hello world, see you soon" << '/n';
+     return 0;
 }
